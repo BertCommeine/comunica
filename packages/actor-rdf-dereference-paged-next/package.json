@@ -39,7 +39,7 @@
     "lru-cache": "^4.1.1"
   },
   "peerDependencies": {
-    "@comunica/bus-rdf-dereference": "^1.0.0",
+    "@comunica/bus-rdf-dereference": "^1.2.0",
     "@comunica/bus-rdf-dereference-paged": "^1.0.0",
     "@comunica/bus-rdf-metadata": "^1.0.0",
     "@comunica/bus-rdf-metadata-extract": "^1.0.0",
