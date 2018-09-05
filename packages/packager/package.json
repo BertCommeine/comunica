@@ -43,7 +43,7 @@
     "@comunica/actor-query-operation-filter-direct": "^1.1.0",
     "@comunica/actor-query-operation-from-quad": "^1.1.0",
     "@comunica/actor-query-operation-join": "^1.1.0",
-    "@comunica/actor-query-operation-leftjoin-nestedloop": "^1.1.0",
+    "@comunica/actor-query-operation-leftjoin-nestedloop": "^1.2.0",
     "@comunica/actor-query-operation-orderby-direct": "^1.1.0",
     "@comunica/actor-query-operation-project": "^1.1.0",
     "@comunica/actor-query-operation-quadpattern": "^1.1.0",
