@@ -35,7 +35,7 @@
     "index.js"
   ],
   "peerDependencies": {
-    "@comunica/core": "^1.0.0"
+    "@comunica/core": "^1.2.0"
   },
   "dependencies": {
     "@rdfjs/data-model": "^1.0.0",
