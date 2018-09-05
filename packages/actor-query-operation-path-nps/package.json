@@ -39,7 +39,7 @@
     "@comunica/bus-query-operation": "^1.1.0"
   },
   "dependencies": {
-    "@comunica/actor-abstract-path": "^1.1.0"
+    "@comunica/actor-abstract-path": "^1.2.0"
   },
   "devDependencies": {
     "@comunica/core": "^1.1.0",
