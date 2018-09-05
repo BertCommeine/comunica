@@ -57,7 +57,7 @@
     "@comunica/actor-query-operation-bgp-single": "^1.1.0",
     "@comunica/actor-query-operation-construct": "^1.1.0",
     "@comunica/actor-query-operation-describe-subject": "^1.1.0",
-    "@comunica/actor-query-operation-distinct-hash": "^1.1.0",
+    "@comunica/actor-query-operation-distinct-hash": "^1.2.0",
     "@comunica/actor-query-operation-filter-direct": "^1.1.0",
     "@comunica/actor-query-operation-from-quad": "^1.1.0",
     "@comunica/actor-query-operation-join": "^1.1.0",
