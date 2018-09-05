@@ -51,7 +51,7 @@
     "@comunica/actor-query-operation-filter-direct": "^1.1.0",
     "@comunica/actor-query-operation-from-quad": "^1.1.0",
     "@comunica/actor-query-operation-join": "^1.1.0",
-    "@comunica/actor-query-operation-leftjoin-nestedloop": "^1.1.0",
+    "@comunica/actor-query-operation-leftjoin-nestedloop": "^1.2.0",
     "@comunica/actor-query-operation-orderby-direct": "^1.1.0",
     "@comunica/actor-query-operation-path-alt": "^1.0.0",
     "@comunica/actor-query-operation-path-inv": "^1.0.0",
